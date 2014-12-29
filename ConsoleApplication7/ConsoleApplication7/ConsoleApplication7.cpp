@@ -17,7 +17,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		}
 		int random = (rand() % 2);
 			cout << random;
-
+// this is a coment that i am trying to add on github
 	}
 	return 0;
 }
